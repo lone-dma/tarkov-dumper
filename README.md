@@ -19,4 +19,3 @@
 
 ## Contact
 - For any inquiries or assistance, feel free to join the [EFT Educational Resources Discord Server](https://discord.gg/hxUhJHWuap).
-- 
